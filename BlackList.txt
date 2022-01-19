@@ -1,3 +1,5 @@
 #
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 google.com.onion
+activity.windows.com
+config.edge.skype.com
