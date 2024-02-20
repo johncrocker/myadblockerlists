@@ -1,0 +1,41 @@
+#
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+wpad
+goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+google.com.onion
+activity.windows.com
+config.edge.skype.com
+yesmovies.at
+a1.api.bbc.co.uk
+smetrics.sky.com
+bskyb.sc.omtrdc.net
+crumpcavum.com
+saa.paramountplus.com
+
+# Snapchat
+adsapi.snapchat.com
+aws-cf.api.snapchat.com
+asia-southeast1-gcp.api.snapchat.com
+app-analytics.snapchat.com
+app-analytics-v2.snapchat.com
+euw.adserver.snapads.com
+ads-interfaces.sc-cdn.net
+ase.adserver.snapads.com
+usc.adserver.snapads.com
+usc.adserver.snapads.com
+use.adserver.snapads.com
+snapads.com
+us-east1-aws.api.snapchat.com
+
+# Google Services
+# myphonenumbers-pa.googleapis.com
+# footprints-pa.googleapis.com
+# people-pa.googleapis.com
+# playatoms-pa.googleapis.com
+# voledevice-pa.googleapis.com
+# inffinitedata-pa.googleapis.com
+# phonedeviceverification-pa.googleapis.com
+
+#
+browser.sentry-cdn.com
+app.getsentry.com

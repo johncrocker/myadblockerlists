@@ -1,0 +1,11 @@
+@@||natwest.com^$important
+@@||check2.tsb.co.uk^$important
+@@||tags.tiqcdn.com^$important
+@@||tailscale.com^$important
+@@||login.tailscale.com^$important
+@@||api.tailscale.com^$important
+@@||natwest.com.ssl.d2.sc.omtrdc.net^$important
+@@||natwest.com^$important
+@@||tsb.co.uk^$important
+@@||lloydsbank.co.uk^$important
+@@||nationwide.co.uk^$important
