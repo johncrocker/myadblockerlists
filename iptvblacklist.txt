@@ -26,10 +26,10 @@ securecdn.videologygroup.com
 # NEEDED FOR UKTV PLAY - doesn't seem necessary to block this for All4 any more
 #2a7e9.v.fwmrm.net
 
-g3v-mir.fwgtm.akadns.net
-dn.ss.anno.channel4.com
-ic.channel4.com
-webstats.channel4.com
-c4ads.2cnt.net
-cdn.http.anno.channel4.com
-monitor.channel4.com
+# g3v-mir.fwgtm.akadns.net
+# dn.ss.anno.channel4.com
+# ic.channel4.com
+# webstats.channel4.com
+jc4ads.2cnt.net
+# cdn.http.anno.channel4.com
+# monitor.channel4.com
