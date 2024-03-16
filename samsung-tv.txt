@@ -92,3 +92,5 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 vas.samsungapps.com
+0.0.0.0 hub.samsungapps.com
+0.0.0.0 vd.contents.prod.eu.s3.amazonaws.com
