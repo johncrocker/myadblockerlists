@@ -1,0 +1,15 @@
+www.bit.ly
+bit.ly
+ow.ly
+tinyurl.com
+cdn.optimizely.com 
+s.shopify.com
+l.facebook.com
+
+logs.netflix.com	
+(\.|^)braintreegateway\.com$	
+(\.|^)lloydsbank\.co\.uk$	
+(\.|^)chase\.co\.uk$
+(\.|^)tsb\.co\.uk$	
+(\.|^)afterpay\.com$	
+(\.|^)paypal\.com$	

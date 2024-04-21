@@ -1,0 +1,26 @@
+# Samsung
+||config.samsungads.com^$ctag=device_tv:block
+# gpm.samsungqbe.com
+# log-config.samsungacr.com
+# samsung.com
+# samsungacr.com
+||samsungads.com^$ctag=device_tv:block
+# samsungcloudsolution.com
+# samsungcloudsolution.net
+# samsungotn.net
+
+# ITVX, Channel4, Channel5
+||ar.prd.content.itv.com^$ctag=device_tv:block
+||recommendations.prd.user.itv.com^$ctag=device_tv:block
+
+||ads-pres.channel4.com^$ctag=device_tv:block
+||cdn.http.anno.channel4.com^$ctag=device_tv:block
+||cdn.ss.anno.channel4.com^$ctag=device_tv:block
+||toots-a.akamaihd.net^$ctag=device_tv:block
+||trk-euwest.tidaltv.com^$ctag=device_tv:block
+||2356e.v.fwmrm.net^$ctag=device_tv:block
+||p.videologygroup.com^$ctag=device_tv:block
+||securecdn.videologygroup.com^$ctag=device_tv:block
+
+# NEEDED FOR UKTV PLAY - doesn't seem necessary to block this for All4 any more
+#2a7e9.v.fwmrm.net^$ctag=~device_tv:block
