@@ -20,3 +20,5 @@ afterpay.com
 paypal.com
 aax-eu.amazon.co.uk
 unagi-na.amazon.com
+cloudgarden.nl
+tuyaeu.como
