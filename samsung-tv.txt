@@ -81,7 +81,7 @@
 0.0.0.0 www.samsungotn.net
 0.0.0.0 game.internetat.tv
 0.0.0.0 ns11.whois.co.kr
-0.0.0.0 infolink.pavv.co.k
+0.0.0.0 infolink.pavv.co.uk
 0.0.0.0 rwww.samsungotn.net
 0.0.0.0 premium-videos.telly.com
 0.0.0.0 targeted-config-test.samsungacr.com
